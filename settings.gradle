@@ -1,0 +1,3 @@
+include ':networkdi'
+include ':app'
+rootProject.name = "NetworkModule"
